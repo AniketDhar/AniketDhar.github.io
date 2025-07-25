@@ -3,6 +3,14 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.3"
+gem "jekyll-data"
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-archives"
+gem "jekyll-paginate"
+gem "jekyll-scholar"
+gem "jekyll-include-cache"
 
 gem "html-proofer", "~> 5.0", group: :test
 

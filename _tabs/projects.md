@@ -1,5 +1,7 @@
 ---
 # the default layout is 'page'
+layout: page
+title: "Projects"
 icon: fas fa-code-branch
 order: 2
 ---
