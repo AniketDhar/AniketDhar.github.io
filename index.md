@@ -15,5 +15,5 @@ This site is where I share:
 
 ➡ [Know Me Better](/about/)   
 ➡ [Check Out My Projects](/projects/)  
-➡ [Read My Blog](/blogs/)  
+➡ [Read My Blogs](/blogs/)  
 ➡ [View My CV](/cv/) 
