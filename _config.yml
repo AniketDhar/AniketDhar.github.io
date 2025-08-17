@@ -57,7 +57,7 @@ plugins:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: "4wbJm8S0M2WQb6K_ufq1PRj1t5XY6uWODH6-ANAQS50"
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -86,11 +86,11 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: goatcounter
+  provider: #goatcounter
 
-analytics:
-  goatcounter:
-    id: "aniketdhar" 
+#analytics:
+#  goatcounter:
+#    id: "aniketdhar" 
 
 # Prefer color scheme setting.
 #
