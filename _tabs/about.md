@@ -50,3 +50,7 @@ I speak:
 This website is my personal space — a way to document my professional journey, share personal projects, and experiment with web development using Jekyll and GitHub Pages. I'm not from a heavy frontend background, but I’m enjoying learning how themes, layout, and configuration come together to make something both functional and personal. 
 
 You'll find my CV, Projects, and maybe a few blog posts or personal ideas here as I continue building.
+
+## 📇 Digital Card
+Scan the QR code below to open my Carrd with contact details and links.
+![QR code linking to my digital introduction card](/assets/avatar/qr-code.png)
