@@ -53,4 +53,4 @@ You'll find my CV, Projects, and maybe a few blog posts or personal ideas here a
 
 ## 📇 Digital Card
 Scan the QR code below to open my Carrd with contact details and links.
-![QR code linking to my digital introduction card](/assets/avatar/qr-code.png)
+<img src="/assets/avatar/qr-code.png" alt="QR code linking to my digital introduction card" width="180">
