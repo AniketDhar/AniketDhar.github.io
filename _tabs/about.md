@@ -52,5 +52,4 @@ This website is my personal space — a way to document my professional journey,
 You'll find my CV, Projects, and maybe a few blog posts or personal ideas here as I continue building.
 
 ## 📇 Digital Card
-Scan the QR code below to open my Carrd with contact details and links.
-<img src="/assets/avatar/qr-code.png" alt="QR code linking to my digital introduction card" width="180">
+<img src="/assets/avatar/qr-code.png" width="180" style="display:block;margin:0;float:none;">
